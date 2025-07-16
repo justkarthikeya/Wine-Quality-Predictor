@@ -1,13 +1,11 @@
 # Wine-Quality-Predictor
 
-This project predicts the quality of red wine based on various physicochemical properties using different machine learning models.
-It also compares model performance and visualizes feature importances and results.
+This project focuses on predicting the quality of red wine based on its various physicochemical properties using machine learning models. It includes exploratory data analysis, model training, performance comparison, and a practical application for predicting wine quality from user-provided inputs.
 
 
 Overview
 
-The goal of this project is to build and evaluate multiple classification models to predict wine quality (good vs. bad or multi-class quality scores) from the winequality-red.csv dataset.
-Through exploratory data analysis (EDA) and model evaluation, we identify the best-performing algorithm for this dataset.
+The primary goal of this project is to develop and evaluate machine learning models to predict the numerical wine quality score (ranging from 0-10) using the `winequality-red.csv` dataset. Through comprehensive data analysis and model evaluation, we aim to identify effective algorithms for this prediction task. A key feature of this updated project is the ability to predict wine quality interactively based on user-provided physicochemical properties.
 
 
 Dataset Features
